@@ -1,0 +1,16 @@
+<project version="Crimson Editor 3.60">
+	<category name="matrix" expanded="yes">
+		<category name="gnu" expanded="yes">
+			<category name="bin" expanded="no">
+			</category>
+			<category name="lib" expanded="no">
+			</category>
+			<category name="test" expanded="no">
+			</category>
+		</category>
+	</category>
+</project>
+
+<workspace version="Crimson Editor 3.60">
+</workspace>
+
